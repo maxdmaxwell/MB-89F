@@ -4,8 +4,8 @@ Support and privacy pages for **MB 89F — Standard Fraction Calculator**, an iP
 iPad app that works in exact fractions. These pages are served with GitHub Pages.
 
 ## Live pages
-- **Privacy Policy** — https://maxdmaxwell.github.io/mb89f/privacy.html
-- **Support / FAQ** — https://maxdmaxwell.github.io/mb89f/support.html
+- **Privacy Policy** — https://maxdmaxwell.github.io/MB-89F/privacy.html
+- **Support / FAQ** — https://maxdmaxwell.github.io/MB-89F/support.html
 - **Home** — https://maxdmaxwell.github.io/mb89f/
 
 ## About MB 89F
